@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Pruva — iki çizgili pruva işareti</title>
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  <g fill="none" stroke="#0C1F36" stroke-width="72" stroke-linecap="round">
+    <line x1="304" y1="736" x2="482" y2="288"/>
+    <line x1="566" y1="384" x2="720" y2="736"/>
+  </g>
+</svg>
